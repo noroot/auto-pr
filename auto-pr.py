@@ -44,4 +44,4 @@ for issue in issues:
                             pass
                     else:
                         print("No rules matched for {}".format(c.sha))
-                break;
+                break
