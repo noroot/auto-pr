@@ -4,3 +4,4 @@ Test file for automatic signed commit merge
 | ------------- |
 | test@test.com|
 | test2@test.com|
+| test3@test.com|
